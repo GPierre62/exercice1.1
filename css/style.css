@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(to right,green,blue);
+}
+
+h1{
+  color:red;
+  text-transform:uppercase;
+}
+
+h3{
+  color: blue;
+  text-transform: lowercase;
+}
+
+ul{
+  list-style-type: square;
+}
+
+.babar{
+  height: 400px;
+  width: 600px;
+  background-image: radial-gradient(rgb(2, 6, 67),rgb(1, 98, 240));
+  border-style: groove;
+  box-shadow: 6px 6px 10px black;
+}
+table{
+  border: 2px solid #F5F5DC;
+}
+th{
+  background-color: rgb(31, 140, 4);
+  color:white;
+  font-weight: bold;
+}
+td{
+  font-size: 10px;
+  border-bottom: 2px solid #F5F5DC;
+  text-align: center;
+}
+
+.EX5{
+  margin:10px;
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  border:1px solid black;
+}
+.machin{
+  border-radius: 50px;
+  }
+.bidule{
+  border-radius: 50%;
+}
+.chouette{
+  border-top-left-radius: 15px;
+  border-top-right-radius: 6%;
+  border-bottom-left-radius: 50px;
+}
